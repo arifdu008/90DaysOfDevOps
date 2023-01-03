@@ -1,5 +1,5 @@
 name: Add contributors
-on:
+off:
   schedule:
     - cron:  '0 12 * * *'
 # push:
